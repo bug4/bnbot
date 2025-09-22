@@ -17,7 +17,7 @@ const NavigationButtons: React.FC = () => {
 
       {/* Buy BNBot Button - Top Right */}
       <a 
-        href="https://four.meme/token/" 
+        href="https://four.meme/token/0xb71024e212a8263f08ee76fb183722d1f4894444" 
         target="_blank" 
         rel="noopener noreferrer"
         className="fixed top-6 right-6 z-20 bg-yellow-500 hover:bg-yellow-400 text-black font-semibold px-4 py-2 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 flex items-center space-x-2 group border-2 border-yellow-400 hover:border-yellow-300"
